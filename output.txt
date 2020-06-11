@@ -1,0 +1,6 @@
+Net Change: -0.1370900000
+Average Move: 0.0000232557
+UP Moves: 892896
+Down Moves: 910761
+Unch Moves: 897168
+Process finished with exit code 0
